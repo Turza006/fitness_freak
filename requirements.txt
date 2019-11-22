@@ -1,16 +1,9 @@
-boto3
-botocore
 django
-django-filter
-django-storages
- djangorestframework
-docutils
-jmespath
-markdown
-pillow
-python-dateutil
 pytz
-s3transfer
-six
 sqlparse
-urllib3
+pillow
+djangorestframework
+django-filter
+markdown
+boto3
+django-storages
